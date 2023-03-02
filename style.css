@@ -1,0 +1,29 @@
+*  {
+    margin:0;
+    box-sizing:0;
+    padding:0;
+}
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:260px;
+    font-weight:normal;
+    
+
+}
+.link {
+    display:flex;
+    width: 200px;
+    height:80%;
+   
+}
+.main {
+    margin-right:380px;
+    border:solid whitesmoke;
+    border-top-right-radius:8px;
+    border-bottom-right-radius:8px;
+    text-align:justify;
+    padding
+    
+}
